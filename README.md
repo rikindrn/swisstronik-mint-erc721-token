@@ -1,0 +1,1 @@
+# swisstronik-mint-erc721-token
